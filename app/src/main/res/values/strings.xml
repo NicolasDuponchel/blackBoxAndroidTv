@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HeOrHer</string>
+    <string name="getStarted">C\'est parti!</string>
+    <string name="previousQuestion">question précédente</string>
+    <string name="nextQuestion">question suivante</string>
+    <string name="endSession">terminer</string>
+    <string name="main_screen_description">Bienvenue dans la boite à questions!\nInstallez vous confortablement, verifiez ne
+        rien avoir entre les dents, pensez à lire à voix haute les
+        questions et assurez vous que la caméra enregistre avant de commencer.</string>
+</resources>

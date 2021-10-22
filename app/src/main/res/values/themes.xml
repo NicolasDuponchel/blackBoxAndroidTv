@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.HeOrHer" parent="@style/Theme.Leanback" />
+</resources>
